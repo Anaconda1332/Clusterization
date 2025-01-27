@@ -6,12 +6,9 @@
   
 Результат кластеризации на разных датасетах:  
 <img src="https://github.com/user-attachments/assets/fffc8b52-9f85-459e-a667-4edcb9d4d7e0" alt="Снимок экрана" width="300" />
-<img src="https://github.com/user-attachments/assets/b1748604-3024-4f97-b8fe-70115fb13732" alt="Снимок экрана" width="300" />
-  
-![image](https://github.com/user-attachments/assets/71667618-ac22-4daa-8a10-2d83040ddaaa)
-![image](https://github.com/user-attachments/assets/c018baf6-9f76-419d-be06-7fb3fd7b9700)
-
-
+<img src="https://github.com/user-attachments/assets/b1748604-3024-4f97-b8fe-70115fb13732" alt="Снимок экрана" width="300" />  
+<img src="https://github.com/user-attachments/assets/71667618-ac22-4daa-8a10-2d83040ddaaa" alt="Снимок экрана" width="300" />
+<img src="https://github.com/user-attachments/assets/c018baf6-9f76-419d-be06-7fb3fd7b9700" alt="Снимок экрана" width="300" />
 
 
 
